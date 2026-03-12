@@ -1,5 +1,10 @@
-# VS Code Terminal: DOCKER
+# VS Code Terminal: 
+# DOCKER
 docker-compose up --build
+
+# KUBERNETES
+kubectl apply -f k8s/
+kubectl get pods -n fullstack-app
 
 
 # BROWSER: 
