@@ -33,4 +33,6 @@ DELETE ---------> http://localost:5000/api/users/5
 
 
 # UNIT TEST using JEST
+# Move to backend folder
+cd backend/
 npm test
